@@ -1,5 +1,3 @@
-# Snake-Game-Webapp
-
 # 🐍 Snake Game
 
 A classic **Snake Game** built with **JavaScript** using the **p5.js** library.  
