@@ -23,13 +23,6 @@ Simple yet addictive!
 
 ---
 
-## 🚀 How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/snake-game.git
-
----
-
 ## 🎯 Controls
 
 ⬆ Up Arrow – Move Up
